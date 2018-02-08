@@ -55,7 +55,7 @@
             background-size: 240%;
 
             background-image: linear-gradient(120deg, transparent 0%, transparent 50%, $colorWhite 50%);
-            transition: translateX .8s;
+            transition: all .8s;
         }
 
         &:hover,
